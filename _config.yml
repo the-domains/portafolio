@@ -1,19 +1,4 @@
-name: portafolio
-favicon: null
-layout_spectrum: 0.8346155595500022
 typography_spectrum: 0.07173486216925085
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.12083119479939342
   saturation: 0.0015353302005678415
   rhythmicContrast: 0.9160773763433099
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8346155595500022
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: portafolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Diseño web
 purpose: []
